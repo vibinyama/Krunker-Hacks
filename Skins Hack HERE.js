@@ -1,4 +1,21 @@
-// copy and paste this whole thing into krunker console
+// Copy and paste this whole thing into krunker console!!
+
+
+// Load the hack in
+Load_Skins = false;
+if (Load_Skins == true) {
+    // Load Skins Inactive
+} else { 
+    // Start loading process
+}
+Loading = false;
+if (Loading == true) {
+    // Stop Loading
+} else {
+    // Continue
+}
+
+// Make button appear
 button = false;
 if (button == true) {
   // Skins hack false
