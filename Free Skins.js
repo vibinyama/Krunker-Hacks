@@ -1,4 +1,4 @@
-// Copy and paste this whole thing into krunker console, then wait 3 seconds and BOOM cheat menu!!!
+// Copy and paste this whole thing into krunker console, then wait 3 seconds and BOOM free skins!!!
 
 // Load the hack in
 Load_Skins = false;
