@@ -1,3 +1,4 @@
+// copy and paste this whole thing into krunker console
 button = false;
 if (button == true) {
   // Skins hack false
