@@ -1,2 +1,2 @@
 # Krunker-Skin-Hacks
-Perfect Krunker Skin Hack!!!
+This skin hack allowes you to get all krunker skins, client side only. I hope you enjoy!
