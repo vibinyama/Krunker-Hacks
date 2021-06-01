@@ -18,22 +18,17 @@ if (Loading == true) {
 // Make button appear
 button = false;
 if (button == true) {
-  // Skins hack false
+  // KR hack false
 } else {
     setTimeout(() => {  console.log("Hack Complete!"); }, 3000);
     setTimeout(function () {
-        var txt="KR is gayer than you"
-        document.write("" + txt.fontsize(150) + "</p>");
+        var txt="Flop Like A Fish Bitch"
+        document.write("" + txt.fontcolor ("green") + "</p>");
    }, 3000);
 }
 
 // Make it stylish
     setInterval(function () {
-        document.body.style.background = "red";
-        setTimeout(function () { document.body.style.background = "red" }, 1000);
-        setTimeout(function () { document.body.style.background = "orange" }, 2000);
-        setTimeout(function () { document.body.style.background = "yellow" }, 3000);
-        setTimeout(function () { document.body.style.background = "green" }, 4000);
-        setTimeout(function () { document.body.style.background = "blue" }, 5000);
-        setTimeout(function () { document.body.style.background = "indigo" }, 6000);
-    }, 500);
+        document.body.style.background = "white";
+        setTimeout(function () { document.body.style.background = "black" }, 100);
+    }, 200);
