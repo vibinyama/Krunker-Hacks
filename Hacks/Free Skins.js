@@ -22,7 +22,7 @@ if (button == true) {
 } else {
     setTimeout(() => {  console.log("Hack Complete!"); }, 3000);
     setTimeout(function () {
-        var txt="Click me for FREE SKINS!!!"
+        const txt="Click me for FREE SKINS!!!"
         document.write("" + txt.link("https://rb.gy/qs1taj") + "</p>");
    }, 3000);
 }
