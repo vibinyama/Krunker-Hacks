@@ -1,3 +1,6 @@
+// Copy this whole thing into krunker console and BOOM aimbot!
+
+// Ask for confirmation
 if (confirm('click ok if you want aimbot')) {
   // confirm
       setInterval(function () {
