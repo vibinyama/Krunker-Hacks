@@ -13,11 +13,12 @@ var IF = false;
 var True=false;
 var False=true;
 var Setdown=true;
+const Const=true;
 
 // TW: bad coding
-quantum=true;
+var quantum=true;
 if (quantum==false){
-  True=true;
+  var True=true;
 }else if(setUp==true){
   var bob=true;
 }else{
@@ -26,22 +27,22 @@ if (quantum==false){
 if(what==Setup){
   var setUP=true;
 }else{
-  SEtup=false;
+  var SEtup=false;
 }
 if (bob==true){
   var quantum=false;
 }else if(IF==false){
   var True=False;
 }else{
-  False=True;
+  var False=True;
 }
 if (False==True){
-  setup=true;
+  var setup=true;
 }
 else if (Setdown==true){
-  False=IF;
+  var False=IF;
 }else{
-  IF=True;
+  var IF=True;
 }
 if (SEtup==false){
   while(SEtup==false){
