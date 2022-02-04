@@ -32,17 +32,17 @@ if (bob==true){
   var quantum=false;
 }else if(IF==false){
   var True=False;
-  }else{
-    False=True;
-  }
-    if (False==True){
-      setup=true;
-    }
-      else if (Setdown==true){
-       False=IF;
-      }else{
-       IF=True;
-    }
+}else{
+  False=True;
+}
+if (False==True){
+  setup=true;
+}
+else if (Setdown==true){
+  False=IF;
+}else{
+  IF=True;
+}
 if (SEtup==false){
   while(SEtup==false){
     document.write("setUP=false;")
