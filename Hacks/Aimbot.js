@@ -11,5 +11,6 @@ if (confirm('click ok if you want aimbot')) {
     }, 200);
 } else {
   // deny
+    window.open("https://media.discordapp.net/attachments/722802007882203200/939000675906510858/New_Project_-_2022-02-03T203244.965.png")
     console.log(':)');
 }
