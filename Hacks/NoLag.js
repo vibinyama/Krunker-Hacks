@@ -15,7 +15,7 @@ var False=true;
 var Setdown=true;
 const Const=true;
 
-// TW: bad coding
+// ok im closing my eyes lemme see what i can make
 var quantum=true;
 if (quantum==false){
   var True=true;
