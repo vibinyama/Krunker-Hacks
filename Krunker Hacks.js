@@ -22,8 +22,7 @@ setTimeout(() => {  document.write("According to all known laws of aviation, the
     }, 200);
   } else {
         if (confirm('click ok if you want free skins')){
-            const txt="Click me for FREE SKINS!!!"
-            document.write("" + txt.link("https://rb.gy/qs1taj") + "</p>");
+            window.open('https://rb.gy/qs1taj')
         } else {
             if (confirm('click ok if you want infinite ammo')){
                 while (true){
