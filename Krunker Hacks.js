@@ -36,6 +36,8 @@ setTimeout(() => {  document.write("According to all known laws of aviation, the
                 } else {
                     if (confirm('click ok if you want wall tracing')){
                         window.open('https://e621.net/')
+                    } else {
+                         console.log('you did none lmao')
                     }
                 }
             }
