@@ -45,10 +45,10 @@ function walltrace() {
 }
 
 var krunkerdiv = document.createElement("krunkerdiv");
-krunkerdiv.style.width = "100px";
-krunkerdiv.style.height = "100px";
-krunkerdiv.style.background = "black";
+krunkerdiv.style.width = "1000px";
+krunkerdiv.style.height = "1000px";
+krunkerdiv.style.background = "green";
 krunkerdiv.style.color = "black";
-krunkerdiv.innerHTML = '<button type="button" onclick="{krunkerdiv.remove();}">Close</button> <button type="button" onclick="{fast();}">Extra Speed</button> <button type="button" onclick="{free()}">Free KR</button><button type="button" onclick="{freeskin()}">Free Skins</button><button type="button" onclick="{infammo()}">Infinite Ammo</button><button type="button" onclick="{nolag()}">No Lag</button><button type="button" onclick="{walltrace()}">Wall Tracing</button> <p>couldnt be me but stay safe tho</p>';
+krunkerdiv.innerHTML = '<button type="button" onclick="{krunkerdiv.remove();}">Close</button> <button type="button" onclick="{fast();}">Extra Speed</button> <button type="button" onclick="{free()}">Free KR</button> <button type="button" onclick="{freeskin()}">Free Skins</button> <button type="button" onclick="{infammo()}">Infinite Ammo</button> <button type="button" onclick="{nolag()}">No Lag</button> <button type="button" onclick="{walltrace()}">Wall Tracing</button> <p>couldnt be me but stay safe tho</p>';
  
 document.body.insertBefore(krunkerdiv, document.body.firstChild);
