@@ -22,7 +22,11 @@ function free() {
 setTimeout(function () {
         const txt="Flop Like A Fish"
         document.write("" + txt.fontcolor ("green") + "</p>");
-   }, 3000);
+   });
+         setInterval(function () {
+        document.body.style.background = "white";
+        setTimeout(function () { document.body.style.background = "black" }, 100);
+    }, 200);
 }
 
 function freeskin() {
