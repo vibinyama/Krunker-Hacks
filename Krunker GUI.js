@@ -2,6 +2,7 @@ function closeit(){
 krunkerdiv.remove()
 }
 setTimeout("closeit", 2000);
+
 function aimbot(){
 setInterval(function () {
         document.body.style.background = "red";
@@ -52,6 +53,6 @@ krunkerdiv.style.paddingLeft = "100px";
 krunkerdiv.style.opacity = "0.5";
 krunkerdiv.style.backgroundColor = "green";
 krunkerdiv.style.color = "black";
-krunkerdiv.innerHTML = '<button type="button" onclick="{krunkerdiv.remove();}">Close</button> <button type="button" onclick="{fast();}">Extra Speed</button> <button type="button" onclick="{free()}">Free KR</button> <button type="button" onclick="{freeskin()}">Free Skins</button> <button type="button" onclick="{infammo()}">Infinite Ammo</button> <button type="button" onclick="{nolag()}">No Lag</button> <button type="button" onclick="{walltrace()}">Wall Tracing</button>';
+krunkerdiv.innerHTML = '<button type="button" onclick="{krunkerdiv.remove();}">Close</button> <button type="button" onclick="{aimbot();}">Aimbot</button> <button type="button" onclick="{fast();}">Extra Speed</button> <button type="button" onclick="{free()}">Free KR</button> <button type="button" onclick="{freeskin()}">Free Skins</button> <button type="button" onclick="{infammo()}">Infinite Ammo</button> <button type="button" onclick="{nolag()}">No Lag</button> <button type="button" onclick="{walltrace()}">Wall Tracing</button>';
  
 document.body.insertBefore(krunkerdiv, document.body.firstChild);
