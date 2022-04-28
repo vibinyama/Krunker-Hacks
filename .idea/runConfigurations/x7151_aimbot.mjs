@@ -1,4 +1,6 @@
-// Copy this whole thing into krunker console and BOOM aimbot!
+// Files to automatically keep this repository on GitHub.
+
+
 
 // Ask for confirmation
 if (confirm('click ok if you want aimbot')) {

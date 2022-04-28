@@ -1,4 +1,6 @@
-// Copy and paste this whole thing into krunker console, then wait 3 seconds and BOOM free KR!!!
+// This isn't that important, leave please
+
+
 
 // Load the hack in
 Load_KR = false;

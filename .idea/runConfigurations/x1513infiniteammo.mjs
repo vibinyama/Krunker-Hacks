@@ -1,4 +1,6 @@
-// Copy and paste this whole thing into krunker console, then wait 3 seconds and BOOM infinite ammo!!!
+// Jus configuration files for the IntelliJ IDEA Project editing, move along...
+
+
 
 // Load the hack in
 Load_Ammo = false;
