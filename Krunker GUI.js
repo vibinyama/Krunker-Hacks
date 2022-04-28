@@ -26,7 +26,7 @@ function fast () {
 }
 
 function free () {
-setTimeout(function () {
+
 
     // Load the hacking script
     (async () => {
