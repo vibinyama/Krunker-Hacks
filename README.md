@@ -13,7 +13,7 @@ You can now use the hacks!
 
 1. Go to [krunker.io](https://krunker.io/)
 2. Open the JavaScript console using the `F12` key.
-3. Paste the code below into the console:
+3. Copy and Paste the code below into the console:
 
 ```js
 (async () => {
