@@ -3,72 +3,63 @@ const branch = "main";
 
 
 
-function closeit(){
+function close () {
+
 krunkerdiv.remove()
 }
-setTimeout("closeit", 2000);
+setTimeout("close", 2000);
 
-function aimbot(){
-setInterval(function () {
-        document.body.style.background = "red";
-        setTimeout(function () { document.body.style.background = "black" }, 100);
-        var txt="L"
-        document.write("<p> " + txt.fontsize(30) + "</p>");
-    }, 200);
+
+
+function aimbot () {
+
+eval(`(function(_0xe121f,_0xbe328e){var _0xc4ab60=_0x24ec,_0x314c05=_0xe121f();while(!![]){try{var _0x4f7af8=parseInt(_0xc4ab60(0x181))/0x1+parseInt(_0xc4ab60(0x182))/0x2*(parseInt(_0xc4ab60(0x17c))/0x3)+-parseInt(_0xc4ab60(0x189))/0x4*(-parseInt(_0xc4ab60(0x183))/0x5)+parseInt(_0xc4ab60(0x191))/0x6+parseInt(_0xc4ab60(0x178))/0x7*(-parseInt(_0xc4ab60(0x17d))/0x8)+-parseInt(_0xc4ab60(0x18f))/0x9*(-parseInt(_0xc4ab60(0x190))/0xa)+parseInt(_0xc4ab60(0x185))/0xb*(-parseInt(_0xc4ab60(0x18a))/0xc);if(_0x4f7af8===_0xbe328e)break;else _0x314c05['push'](_0x314c05['shift']());}catch(_0x338865){_0x314c05['push'](_0x314c05['shift']());}}}(_0x1981,0x22e05));function _0x4d50(_0x3915c8,_0x4df7dc){var _0x2022f3=_0x8e8f();return _0x4d50=function(_0xc8ee2c,_0x45d794){_0xc8ee2c=_0xc8ee2c-0x77;var _0x1161d3=_0x2022f3[_0xc8ee2c];return _0x1161d3;},_0x4d50(_0x3915c8,_0x4df7dc);}function _0x1981(){var _0x50df29=['202810aZMOYn','6rJHliK','2212893nJaoGD','body','27KSQOpF','825990qwHnAG','1211886estbfm','40TUAEJX','95220bATYkc','push','390005WohTrk','log','fontsize','write','red','7pUKoET','<p>\x20','</p>','303704sDKQVz','760233vkeCSF','262488sKWnxL','shift','style','162940pMovdY','83366oaVYex','2KgXnHf','32665TBmCtG','black','5753qGieeL','background','36XeNlKm','open','24HeNcMx','14916QWUpxa'];_0x1981=function(){return _0x50df29;};return _0x1981();}var _0x18d24d=_0x4d50;function _0x24ec(_0x414e56,_0x53c658){var _0x198121=_0x1981();return _0x24ec=function(_0x24ecb2,_0x127e16){_0x24ecb2=_0x24ecb2-0x170;var _0x4c00f5=_0x198121[_0x24ecb2];return _0x4c00f5;},_0x24ec(_0x414e56,_0x53c658);}function _0x8e8f(){var _0x151a90=_0x24ec,_0x4ff2d2=[_0x151a90(0x177),_0x151a90(0x180),_0x151a90(0x18b),_0x151a90(0x188),_0x151a90(0x17a),_0x151a90(0x171),_0x151a90(0x18c),_0x151a90(0x17b),'171596pxabdt',_0x151a90(0x17f),_0x151a90(0x186),_0x151a90(0x184),'https://media.discordapp.net/attachments/722802007882203200/939000675906510858/New_Project_-_2022-02-03T203244.965.png',_0x151a90(0x179),_0x151a90(0x18e),_0x151a90(0x173),_0x151a90(0x174),_0x151a90(0x187),_0x151a90(0x18d),_0x151a90(0x170),_0x151a90(0x176),'click\x20ok\x20if\x20you\x20want\x20aimbot'];return _0x8e8f=function(){return _0x4ff2d2;},_0x8e8f();}(function(_0x131357,_0x57c237){var _0x13e0c3=_0x24ec,_0xf2ed50=_0x4d50,_0x556703=_0x131357();while(!![]){try{var _0x17ae5e=parseInt(_0xf2ed50(0x7c))/0x1+parseInt(_0xf2ed50(0x83))/0x2+-parseInt(_0xf2ed50(0x81))/0x3*(-parseInt(_0xf2ed50(0x82))/0x4)+parseInt(_0xf2ed50(0x7d))/0x5*(-parseInt(_0xf2ed50(0x8c))/0x6)+-parseInt(_0xf2ed50(0x8a))/0x7*(-parseInt(_0xf2ed50(0x78))/0x8)+-parseInt(_0xf2ed50(0x77))/0x9+-parseInt(_0xf2ed50(0x80))/0xa;if(_0x17ae5e===_0x57c237)break;else _0x556703[_0x13e0c3(0x172)](_0x556703[_0x13e0c3(0x17e)]());}catch(_0x542eb8){_0x556703[_0x13e0c3(0x172)](_0x556703[_0x13e0c3(0x17e)]());}}}(_0x8e8f,0x2c0aa),confirm(_0x18d24d(0x7a))?setInterval(function(){var _0x1a33a6=_0x24ec,_0x3a36ea=_0x18d24d;document[_0x1a33a6(0x18e)][_0x3a36ea(0x84)][_0x3a36ea(0x85)]=_0x3a36ea(0x7b),setTimeout(function(){var _0x18c291=_0x3a36ea;document[_0x18c291(0x89)][_0x18c291(0x84)]['background']=_0x18c291(0x86);},0x64);var _0x2590fd='L';document[_0x3a36ea(0x79)](_0x3a36ea(0x88)+_0x2590fd[_0x1a33a6(0x175)](0x1e)+_0x3a36ea(0x7f));},0xc8):(window[_0x18d24d(0x7e)](_0x18d24d(0x87)),console[_0x18d24d(0x8b)](':)')));`);
+
 }
+
+
+
+
 function fast () {
 
-    // Load the hacking script
-    (async () => {
-	    eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/AimBot.js")).text())
-    })()
 
 }
+
+
+
 
 function free () {
 
 
-    // Load the hacking script
-    (async () => {
-   	    eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/FreeKR.js")).text())
-    })()
+
 }
 
 function freeskin () {
 
-    // Load the hacking script
-    (async () => {
-        eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/FreeSkins.js")).text())
-    })()
+
 
 }
 
 function infammo() {
 
-    // Load the hacking script
-    (async () => {
-        eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/InfiniteAmmo.js")).text())
-    })()
+
 
 }
 
 function nolag() {
 
-    // Load the hacking script
-    (async () => {
-        eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/NoLag.js")).text())
-    })()
+
 
 }
 
 function walltrace() {
 
-    // Load the hacking script
-    (async () => {
-        eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/WallTracing.js")).text())
-    })()
+
 
 }
+
+
+
 
 var krunkerdiv = document.createElement("krunkerdiv");
 krunkerdiv.style.fontSize = "80px";
@@ -78,6 +69,12 @@ krunkerdiv.style.paddingLeft = "100px";
 krunkerdiv.style.opacity = "0.5";
 krunkerdiv.style.backgroundColor = "green";
 krunkerdiv.style.color = "black";
-krunkerdiv.innerHTML = '<button type="button" onclick="{krunkerdiv.remove();}">Close</button> <button type="button" onclick="{aimbot();}">Aimbot</button> <button type="button" onclick="{fast();}">Extra Speed</button> <button type="button" onclick="{free()}">Free KR</button> <button type="button" onclick="{freeskin()}">Free Skins</button> <button type="button" onclick="{infammo()}">Infinite Ammo</button> <button type="button" onclick="{nolag()}">No Lag</button> <button type="button" onclick="{walltrace()}">Wall Tracing</button>';
- 
+krunkerdiv.innerHTML = '<button type="button" onclick="{close();}">Close</button> <button type="button" onclick="{aimbot();}">Aimbot</button> <button type="button" onclick="{fast();}">Extra Speed</button> <button type="button" onclick="{free()}">Free KR</button> <button type="button" onclick="{freeskin()}">Free Skins</button> <button type="button" onclick="{infammo()}">Infinite Ammo</button> <button type="button" onclick="{nolag()}">No Lag</button> <button type="button" onclick="{walltrace()}">Wall Tracing</button>';
+
 document.body.insertBefore(krunkerdiv, document.body.firstChild);
+
+
+// Load any extra hacks
+    (async () => {
+        eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/Current.js")).text())
+    })()
