@@ -92,5 +92,5 @@ document.body.insertBefore(krunkerdiv, document.body.firstChild);
 
 // Load any extra hacks
     (async () => {
-        eval(await (await fetch("https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/Current.js")).text())
+        eval(await (await fetch(`https://raw.githubusercontent.com/${ghRepo}/${branch}/SourceCode/Current.js`)).text())
     })()
