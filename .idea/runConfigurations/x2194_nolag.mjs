@@ -1,4 +1,6 @@
-// Click f12 to open up chrome console, then paste this into it.
+// Nothing to see here. Move along.
+
+
 
 // set it up
 var SetUp=true;

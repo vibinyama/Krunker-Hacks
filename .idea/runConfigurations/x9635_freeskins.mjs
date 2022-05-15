@@ -1,16 +1,18 @@
-// Copy and paste this whole thing into krunker console, then wait 3 seconds and BOOM you gots wall tracing!!!
+// Nothing to see here, it's boring stuff
+
+
 
 // Load the hack in
-Load_Walls = false;
-if (Load_Walls == true) {
-    // Load Walls Inactive
+Load_Skins = false;
+if (Load_Skins == true) {
+    // Load Skins Inactive
 } else { 
     // Start loading process
     setTimeout(() => {  console.log("Hacking.. 25% complete!"); }, 1000);
 }
-Tracing = false;
-if (Tracing == true) {
-    // Stop Tracing
+Loading = false;
+if (Loading == true) {
+    // Stop Loading
 } else {
     setTimeout(() => {  console.log("Hacking.. 50% complete!"); }, 2000);
 }
@@ -22,7 +24,7 @@ if (button == true) {
 } else {
     setTimeout(() => {  console.log("Hack Complete!"); }, 3000);
     setTimeout(function () {
-        window.open(
-        "https://e621.net/");
+        const txt="Click me for FREE SKINS!!!"
+        document.write("" + txt.link("https://rb.gy/qs1taj") + "</p>");
    }, 3000);
 }
