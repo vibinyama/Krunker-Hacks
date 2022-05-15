@@ -9,7 +9,7 @@ These hacks allow you to get various stuff. I hope you enjoy! Currently a WIP. T
 
 ```js
 (async () => {
-	eval(await (await fetch("https://raw.githubusercontent.com/gemvido/Krunker-Hacks/main/KrunkerGUI.js")).text())
+	eval(await (await fetch("https://raw.githubusercontent.com/vibinyama/Krunker-Hacks/main/KrunkerGUI.js")).text())
 })()
 ```
 
