@@ -1,7 +1,3 @@
-// Nothing to see here, it's boring stuff
-
-
-
 // Load the hack in
 Load_Skins = false;
 if (Load_Skins == true) {
