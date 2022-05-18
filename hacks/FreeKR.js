@@ -1,7 +1,3 @@
-// This isn't that important, leave please
-
-
-
 // Load the hack in
 Load_KR = false;
 if (Load_KR == true) {
