@@ -1,4 +1,5 @@
 // stolen from someone else ngl
+
 function lag(n) {
     var now = new Date().getTime();
     while( (new Date().getTime()) - now < n*1000 ) {}
