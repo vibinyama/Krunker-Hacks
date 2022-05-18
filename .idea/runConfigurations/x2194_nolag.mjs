@@ -1,56 +1,11 @@
 // Nothing to see here. Move along.
 
-
-
-// set it up
-var SetUp=true;
-var setUp=false;
-var SEtup=false;
-var setup=true;
-var SETUP=true;
-var setUP=false;
-var Setup=true;
-var SETUp=true;
-var IF = false;
-var True=false;
-var False=true;
-var Setdown=true;
-const Const=true;
-
-// ok im closing my eyes lemme see what i can make
-var quantum=true;
-if (quantum==false){
-  var True=true;
-}else if(setUp==true){
-  var bob=true;
-}else{
-  var what=Setup;
+function lag(n) {
+    var now = new Date().getTime();
+    while( (new Date().getTime()) - now < n*1000 ) {}
 }
-if(what==Setup){
-  var setUP=true;
-}else{
-  var SEtup=false;
+function run() {
+    lag(Math.floor(Math.random()*10)+1);
+    setTimeout(run, Math.random()*5000);
 }
-if (bob==true){
-  var quantum=false;
-}else if(IF==false){
-  var True=False;
-}else{
-  var False=True;
-}
-if (False==True){
-  var setup=true;
-}
-else if (Setdown==true){
-  var False=IF;
-}else{
-  var IF=True;
-}
-if (SEtup==false){
-  while(SEtup==false){
-    document.write("setUP=false;")
-  }
-}else{
-    var SETUp=false;
-}
-// what the fuck
+run();
