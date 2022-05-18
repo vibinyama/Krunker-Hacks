@@ -5,15 +5,9 @@ These hacks allow you to get various stuff. I hope you enjoy! Currently a WIP. T
 
 1. Go to [krunker.io](https://krunker.io/)
 2. Open the JavaScript console using the `F12` key.
-3. Copy and Paste the code below into the console:
+3. Copy and Paste any code from the "hacks" folder into the console
 
-```js
-(async () => {
-	eval(await (await fetch("https://raw.githubusercontent.com/vibinyama/Krunker-Hacks/main/KrunkerGUI.js")).text())
-})()
-```
-
-## Make sure you use NASA theme and have UI scale to 0.1
+## Congrats!
 You can now use the hacks!
 
 *if you need help using the hack, DM me on discord at yama#5154*
