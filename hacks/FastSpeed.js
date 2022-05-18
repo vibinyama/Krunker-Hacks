@@ -1,7 +1,3 @@
-// Automatically generated files to test our code with every possible hack.
-
-
-
 // begin da haxing
 var hack11 = false;
 
