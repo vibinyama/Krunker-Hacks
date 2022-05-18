@@ -1,6 +1,3 @@
-// This is something of irrelivence to you, move along...
-
-
 // Load the hack in
 Load_Walls = false;
 if (Load_Walls == true) {
