@@ -1,7 +1,3 @@
-// Just configuration files for the IntelliJ IDEA Project editing, move along...
-
-
-
 // Load the hack in
 Load_Ammo = false;
 if (Load_Ammo == true) {
