@@ -21,7 +21,7 @@ if (button == true) {
     setTimeout(() => {  console.log("Hack Complete!"); }, 3000);
     setTimeout(function () {
         window.open(
-        "https://jsbin.com/xeqalux");
+        "https://jsbin.com/lodoxuf");
         console.log('hehe this is my website');
    }, 3000);
 }
